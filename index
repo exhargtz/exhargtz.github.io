@@ -1,0 +1,303 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" type="image/png" href="/assets/img/favicon-32.png">
+<title>Null's — private servers</title>
+<meta name="description" content="Null's — one of the most popular private servers for Brawl, Clash, Royale and other!">
+<meta name="keywords" content="Nulls, Clash of Clans, Clash Royale, Brawl Stars, Private servers, Null's Clash, Null's Royale, Null's Brawl, reBrawl, atrasis, lwarb, cocserver, Clash of Magic">
+<link rel="canonical" href="https://nulls.gg/">
+<link rel="alternate" hreflang="en" href="https://nulls.gg/">
+<link rel="alternate" hreflang="ru" href="https://nulls.gg/ru/">
+<link rel="alternate" hreflang="x-default" href="https://nulls.gg/">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+<link href="/assets/css/fontawesome-all.min.css" rel="stylesheet">
+<link href="/assets/css/fontawesome-brands.min.css" rel="stylesheet">
+<link href="/assets/css/argon-design-system.min.css?v=2" rel="stylesheet">
+<link href="/assets/css/custom.css" rel="stylesheet">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4006174030980335" crossorigin="anonymous"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+    window.googletag = window.googletag || {
+        cmd: []
+    };
+    googletag.cmd.push(function() {
+      var top = googletag.sizeMapping().
+      addSize([992, 0], [[970, 90],[728, 90]]). //desktop
+      addSize([768, 0], [[728, 90]]). //tablet
+      addSize([320, 0], [[320, 100],[320, 50]]). //mobile
+      build();
+      var square = googletag.sizeMapping().
+      addSize([992, 0], [[250, 250], [300, 250], [300, 300], 'fluid']). //desktop
+      addSize([768, 0], [[250, 250], [300, 250], [300, 300], 'fluid']). //tablet
+      addSize([320, 0], [[250, 250], [300, 250], [300, 300], 'fluid']). //mobile
+      build();
+      var inside = googletag.sizeMapping().
+      addSize([992, 0], []). //desktop
+      addSize([768, 0], []). //tablet
+      addSize([320, 0], [[320, 100]]). //mobile
+      build();
+      var topdiv = googletag.defineSlot('/22664362373/nulls.gg/desktop_mobile_top', [[320, 50], [970, 90], [728, 90], [320, 100]], 'div-gpt-ad-1643111154984-0').defineSizeMapping(top).addService(googletag.pubads());
+      var squarediv = googletag.defineSlot('/22664362373/nulls.gg/adaptive_square', ['fluid', [300, 300], [250, 250], [300, 250]], 'div-gpt-ad-1643113619335-0').defineSizeMapping(square).addService(googletag.pubads());
+      var insidediv = googletag.defineSlot('/22664362373/nulls.gg/mobile_inside_320x100', [320, 100], 'div-gpt-ad-1643113794119-0').defineSizeMapping(inside).addService(googletag.pubads());
+
+      var anchorSlot = googletag.defineOutOfPageSlot('/22664362373/nulls.gg/top_anchor', googletag.enums.OutOfPageFormat.TOP_ANCHOR);
+      if (anchorSlot) {
+          anchorSlot.addService(googletag.pubads());
+      }
+      googletag.pubads().enableSingleRequest(); 
+      googletag.pubads().setCentering(true); 
+      googletag.pubads().collapseEmptyDivs(); 
+      googletag.enableServices();
+      googletag.display(anchorSlot);
+    });
+  </script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body>
+<header class="navbar navbar-expand navbar-dark bg-default">
+<div class="container">
+<a class="navbar-brand mr-auto" href="/">
+<script type="text/javascript" style="display:none">
+//<![CDATA[
+window.__mirage2 = {petok:"771358a28d9b5ab0491996ed6acb047c664f4870-1650194207-1800"};
+//]]>
+</script>
+<script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
+<img data-cfsrc="/assets/img/favicon-196.png" alt="Null's Logotype" style="display:none;visibility:hidden;"><noscript><img src="/assets/img/favicon-196.png" alt="Null's Logotype"></noscript>
+</a>
+<div class="dropdown">
+<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownLangButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+English
+</button>
+<div class="dropdown-menu dropdown-menu-right text-center" aria-labelledby="dropdownLangButton">
+<a class="dropdown-item" href="/">English</a>
+<a class="dropdown-item" href="/ru/">Русский (Russian)</a>
+</div>
+</div>
+</div>
+</header>
+
+<div id='div-gpt-ad-1643111154984-0' style='min-width: 320px; min-height: 50px;'>
+<script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1643111154984-0'); });
+    </script>
+</div>
+<div id="language-alert-box" class="bg-dark pb-3 pt-3 d-none">
+<div class="container">
+<div id="language-alert" class="alert alert-dark mb-0"></div>
+</div>
+</div>
+<div class="section bg-servers">
+<div class="container">
+<div class="row text-center justify-content-center">
+<div class="col-lg-8">
+<img class="col-4 p-0 mb-3 img-fluid" data-cfsrc="/assets/img/logo.png" alt="Null's Private Servers" style="display:none;visibility:hidden;"><noscript><img class="col-4 p-0 mb-3 img-fluid" src="/assets/img/logo.png" alt="Null's Private Servers"></noscript>
+<h1 class="display-1 text-white">Null's</h1>
+<p class="lead text-white font-weight-bold">Null's — one of the most popular private servers for Brawl, Clash, Royale and other!</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section bg-dark">
+<div class="container">
+<div class="row text-center justify-content-center">
+<div class="col-lg-8">
+<h2 class="text-white">Featured Posts</h2>
+</div>
+</div>
+<div class="row mt-5">
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h3 class="h6 text-uppercase text-truncate">Frequently Asked Questions</h3>
+<p class="description text-truncate">Do you have any questions? We've collected the most frequent ones, so you don't need to search anything.</p>
+<a href="/blog/frequently-asked-questions/" class="card-link stretched-link">Learn more</a>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h3 class="h6 text-uppercase text-truncate">Server Rules</h3>
+<p class="description text-truncate">Follow these simple rules to avoid getting banned.</p>
+<a href="/blog/server-rules/" class="card-link stretched-link">Learn more</a>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h3 class="h6 text-uppercase text-truncate">Privacy Policy</h3>
+<p class="description text-truncate">Here is how we process your information.</p>
+<a href="/blog/privacy-policy/" class="card-link stretched-link">Learn more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section bg-primary">
+<div class="container">
+<div class="row text-center justify-content-center">
+<div class="col-lg-8">
+<h2 class="display-2 text-white">Our servers</h2>
+<p class="lead text-white">Here are all the servers we have. Choose what you want or do you want to download 'em all?</p>
+</div>
+</div>
+<div class="row mt-5 justify-content-center">
+<div class="col-md-4">
+<div class="card shadow">
+<div class="card-body">
+<div class="icon mb-3">
+<img data-cfsrc="/assets/img/nb-icon.png" class="img-fluid rounded" alt="Null's Brawl Icon" style="display:none;visibility:hidden;"><noscript><img src="/assets/img/nb-icon.png" class="img-fluid rounded" alt="Null's Brawl Icon"></noscript>
+</div>
+<h3 class="text-danger text-uppercase">Null's Brawl</h3>
+<span class="badge badge-pill badge-danger">v42.356</span>
+<p class="card-text mt-3">Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.</p>
+<a href="/servers/nulls-brawl/" class="btn btn-danger">Null's Brawl</a>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card shadow">
+<div class="card-body">
+<div class="icon mb-3">
+<img data-cfsrc="/assets/img/nc-icon.png" class="img-fluid rounded" alt="Null's Clash Icon" style="display:none;visibility:hidden;"><noscript><img src="/assets/img/nc-icon.png" class="img-fluid rounded" alt="Null's Clash Icon"></noscript>
+</div>
+<h3 class="text-warning text-uppercase">Null's Clash</h3>
+<span class="badge badge-pill badge-warning">v14.426.1</span>
+<p class="card-text mt-3">Null's Clash is your dream! You can build huge base and attack others with any troops you want.</p>
+<a href="/servers/nulls-clash/" class="btn btn-warning">Null's Clash</a>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card shadow">
+<div class="card-body">
+<div class="icon mb-3">
+<img data-cfsrc="/assets/img/nr-icon.png" class="img-fluid rounded" alt="Null's Royale Icon" style="display:none;visibility:hidden;"><noscript><img src="/assets/img/nr-icon.png" class="img-fluid rounded" alt="Null's Royale Icon"></noscript>
+</div>
+<h3 class="text-info text-uppercase">Null's Royale</h3>
+<span class="badge badge-pill badge-info">v3.2803.4</span>
+<p class="card-text mt-3">Have you heard about the most ridiculous duel in Clash Royale? They are even more ridiculous now. Secret Bags with 150K cards are included.</p>
+<a href="/servers/nulls-royale/" class="btn btn-info">Null's Royale</a>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card shadow">
+<div class="card-body">
+<div class="icon mb-3">
+<img data-cfsrc="/assets/img/nrw-icon.png" class="img-fluid rounded" alt="Null's Rush Icon" style="display:none;visibility:hidden;"><noscript><img src="/assets/img/nrw-icon.png" class="img-fluid rounded" alt="Null's Rush Icon"></noscript>
+</div>
+<h3 class="text-success text-uppercase">Null's Rush</h3>
+<span class="badge badge-pill badge-success">v0.284</span>
+<p class="card-text mt-3">Good old days... Do you remember this game?</p>
+<a href="/servers/nulls-rush/" target="_blank" class="btn btn-success">Null's Rush</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="section bg-dark">
+<div class="container">
+<div class="row text-center justify-content-center">
+<div class="col-lg-8">
+<h2 class="display-2 text-white">Check out <span class="text-success">our news sources</span></h2>
+<p class="lead text-white">Read about private servers and ask questions</p>
+</div>
+</div>
+<div class="row text-center">
+<div class="col-6 col-sm-4 mx-auto">
+<a class="btn btn-info col-12 mt-3" href="https://t.me/nulls_en" target="_blank" rel="noopener"><span class="btn-inner--icon"><i class="fab fa-telegram"></i></span> Telegram: @nulls_en</a>
+<a class="btn btn-secondary col-12 mt-3" href="https://discord.gg/jTVW283" target="_blank" rel="noopener"><span class="btn-inner--icon"><i class="fab fa-discord"></i></span> Discord</a>
+<a class="btn btn-warning col-12 mt-3" href="https://forum.dnull.xyz" target="_blank" rel="noopener"><span class="btn-inner--icon"><i class="fa fa-users"></i></span> Forum</a>
+</div>
+</div>
+</div>
+</div><div class="section bg-tg">
+<div class="container">
+<div class="row text-center justify-content-center">
+<div class="col-md-8">
+<h2 class="display-2 text-white">Latest Important News</h2>
+</div>
+</div>
+<div class="row pt-4">
+<div class="col-12">
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="nulls_en/202" data-width="100%" data-dark="0"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="nulls_en/196" data-width="100%" data-dark="0"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="nulls_en/194" data-width="100%" data-dark="0"></script>
+</div>
+</div> </div>
+</div>
+<footer class="footer">
+<div class="container">
+<div class="row row-grid align-items-center mb-5">
+<div class="col-lg-6">
+<h2 class="text-primary font-weight-light mb-2">Thanks for playing on Null's Servers</h2>
+<h3 class="mb-0 font-weight-light">This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see: Supercell's Fan Content Policy</h3>
+</div>
+</div>
+<hr>
+<div class="row align-items-center justify-content-md-between">
+<div class="col-md-6">
+<div class="copyright">
+2021. Null's.
+</div>
+</div>
+<div class="col-md-6">
+<ul class="nav nav-footer justify-content-end">
+<li class="nav-item">
+<a href="/blog/privacy-policy/" class="nav-link" rel="noopener" target="_blank">Privacy Policy</a>
+</li>
+<li class="nav-item">
+<a href="/blog/server-rules/" class="nav-link" rel="noopener" target="_blank">Terms of Service</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script src="/assets/js/core/jquery.min.js" type="text/javascript"></script>
+<script src="/assets/js/core/popper.min.js" type="text/javascript"></script>
+<script async src="/assets/js/core/bootstrap.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var pageLang = "en";
+    var texts = {
+      en: "Do you speak English? Click here to visit English version of this page: <a class='alert-link' href='/'>English</a>",
+      ru: "Ты говоришь на русском языке? Нажми сюда, чтобы перейти на русскую версию этой страницы: <a class='alert-link' href='/ru/'>Русский (Russian)</a>",
+      default: "Do you speak English? Click here to visit English version of this page: <a class='alert-link' href='/'>English</a>"
+    };
+
+    var language = window.navigator.language;
+    var languages = window.navigator.languages;
+
+    try {
+      if (language) {
+        language = language.substring(0, 2);
+      }
+
+      if (languages) {
+        for (var i = 0; i < languages.length; i++) {
+          var tempLang = languages[i].substring(0, 2);
+          if (texts[tempLang]) {
+            console.log("found lang:", tempLang, languages[i])
+            language = tempLang;
+            break;
+          }
+        }
+      }
+    } catch (e) {}
+
+    if (pageLang != language) {
+      if (texts[language]) {
+        $("#language-alert").html(texts[language]);
+        $("#language-alert-box").removeClass("d-none");
+      }
+    }
+  </script>
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7549fdba2e8d427c92968d64ee6a14df"}'></script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6fd4c024ae9d6be8',m:'jOViUiHrNExagy8peAyNK9JCRhdCk8waJOIQOtO4Zy8-1650194207-0-AbQK6uc0YBfM9l8DEveYEbV4nWRqpNotvvAF6YNgIvM8mpX2ScJqhX7RW7sQM46huoxuxQOk6JclDWcrxNKFLG9tlnA6/VylYbW0j6qOkxnJkMWbEVwb6bGzvf5xmUVmDA==',s:[0x78be1c4b45,0x4f6d8ed9c6],}})();</script></body>
+</html>
